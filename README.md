@@ -2,7 +2,7 @@
 - 간단한 웹페이지 퍼블리싱 과제입니다.
 
 ### Figma 페이지
-[![Figma](https://www.figma.com/file/1KKHh5Q42kABJIIGVirrwk/%EC%9B%B9%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1-%EA%B3%BC%EC%A0%9C?type=design&node-id=0%3A1&mode=design&t=5EJmzqU2EgNTTMUi-1)] 를 참고하여 퍼블리싱 해주세요.
+[Figma](https://www.figma.com/file/1KKHh5Q42kABJIIGVirrwk/%EC%9B%B9%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1-%EA%B3%BC%EC%A0%9C?type=design&node-id=0%3A1&mode=design&t=5EJmzqU2EgNTTMUi-1) 를 참고하여 퍼블리싱 해주세요.
 
 ### 과제 조건
 - 주어진 디자인 시안의 경우, PC용으로만 제공되지만 웹 반응형을 고려해야합니다.

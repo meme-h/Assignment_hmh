@@ -65,7 +65,7 @@ body {overflow-y: auto;}
 .sec {background-color: #f4f4f4;}
 .sec1 {text-align: center; padding: 11.8rem 0 7.8rem;}
 .sec1 .title {margin-bottom: 9.1rem; word-break: keep-all;}
-.sec1 .title .sub {font-weight: 500; font-size: 2.8rem; line-height: 3.64rem;}
+.sec1 .title .sub {font-weight: 500; font-size: 2.8rem; line-height: 3.64rem; margin-bottom: 1.1rem;}
 .sec1 .title .main {font-weight: 600; font-size: 6rem; line-height: 7.8rem;}
 .sec1 img {max-width: 97.5rem;}
 
@@ -149,7 +149,7 @@ body {overflow-y: auto;}
     /* main */
     .sec1 {padding: 10rem 0 7rem;}
     .sec1 .title {margin-bottom: 7rem;}
-    .sec1 .title .main {font-size: 5rem;}
+    .sec1 .title .main {font-size: 5rem; line-height: 6rem;}
     .sec1 .title .sub {font-size: 2.3rem;}
     .sec1 img {width: 90%;}
 
@@ -184,14 +184,15 @@ body {overflow-y: auto;}
     .btn {width: fit-content; padding: 0 3rem;}
 
     /* header */
-    .header-link {font-size: 1.6rem; font-weight: 500; line-height: 2.34rem;}
-    .header-link img {height: 1.6rem; margin-left: 0.5rem;}
-    .header-link span:not(:last-child) {margin-right: 1rem;}
+    .logo img {width: 15.5rem;}
+    .header-link {font-size: 1.55rem; font-weight: 500; line-height: 2.34rem;}
+    .header-link img {height: 1.55rem; margin-left: 0.2rem;}
+    .header-link span:not(:last-child) {margin-right: 0.8rem;}
 
     /* main */
     .sec1 {padding: 15rem 0 15rem;}
     .sec1 .title {margin-bottom: 7rem;}
-    .sec1 .title .main {font-size: 4rem;}
+    .sec1 .title .main {font-size: 4rem; line-height: 5.5rem;}
     .sec1 .title .sub {font-size: 3rem;}
     .sec1 img {width: 95%;}
 
